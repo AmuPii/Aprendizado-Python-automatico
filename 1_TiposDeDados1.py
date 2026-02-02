@@ -1,4 +1,4 @@
-exercicio 1 - Tipos de Dados e Conversão
+#exercicio 1 - Tipos de Dados e Conversão
 
 # anopessoa = input("Digite o ano de seu nascimento: ")
 # anoatual = input("Digite o ano atual: ")
@@ -9,7 +9,7 @@ exercicio 1 - Tipos de Dados e Conversão
 
 
 #================================================================================================================================================
-exercicio 2 - Operações Aritméticas Simples
+#exercicio 2 - Operações Aritméticas Simples
 
 # num1 = input("Digite um número: ")
 # num2 = input("Digite outro número: ")
@@ -25,7 +25,7 @@ exercicio 2 - Operações Aritméticas Simples
 # print("Divisão: ", divisao)
 
 #================================================================================================================================================
-exercicio 3 - Cálculo de Média
+#exercicio 3 - Cálculo de Média
 
 # nota1 = input("Digite a primeira nota: ")
 # nota2 = input("Digite a segunda nota: ")
